@@ -1,3 +1,4 @@
+Copyright August 2017 napalerd@bu.edu
 # Height-Population-Web-Application
 A web application that inputs a user's height and send his/her height and her average to email.
 
